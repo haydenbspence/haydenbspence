@@ -1,7 +1,7 @@
 I am Hayden B. Spence
-I have a dog and I like to go on hikes.
 
-# I am currently working on:
+- I have a dog
+- I enjoy the outdoors
 
 <!--
 **haydenbspence/haydenbspence** 

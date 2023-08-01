@@ -1,7 +1,4 @@
-I am Hayden B. Spence
-
-- I have a dog
-- I enjoy the outdoors
+I'm a data-savvy professional with roots in behavioral science, healthcare, and research management consulting. My focus is on using information to prevent negative outcomes.
 
 <!--
 **haydenbspence/haydenbspence** 
